@@ -1,0 +1,12 @@
+/* import font  */
+
+@font-face {
+  font-family: 'Ubuntu-Light';
+  src: url('Ubuntu-Light.ttf') format('truetype');
+
+}
+
+body {
+  text-align: center;
+  font-family: 'Ubuntu-Light';  
+}
